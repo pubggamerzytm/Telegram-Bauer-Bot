@@ -1,6 +1,6 @@
-✨ *Bismuth Bauer Bot* ✨
+✨ *Bot Creator Dev* ✨
 
-Welcome to Bismuth! I'm Bauer, your friendly Bismuth bot, and if you want to tip someone or if you want to let it rain BIS coins for the Bismuth Telegram community then i will help you out doing that.
+Welcome to my Bot! I'm Bot, your friendly bot, and if you want to tip someone or if you want to let it rain BIS coins for the Telegram community then i will help you out doing that.
 
 Click on /help to see all available commands with a short description or on /about to get more info about me.
 
