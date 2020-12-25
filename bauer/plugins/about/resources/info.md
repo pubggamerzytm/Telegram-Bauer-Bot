@@ -1,8 +1,8 @@
-✨ *Bismuth Bauer Bot* ✨  
-Please visit the [website](https://bismuth.cz) to get detailed information about Bismuth.  
+✨ *This bot is made by @Bot_Creator_Dev* ✨  
+Please contact *@Bot_Creator_Dev* to buy this bot.  
 
 🔹 *Development*  
-This bot ist open source and the source code can be found over at [GitHub](https://github.com/Endogen/Bauer-Telegram-Bot). He's written in Python and was developed by @endogen for the Bismuth community.
+Developed by *@Bot_Creator_Dev*.
 
 🔹 *Feedback*  
-Do you have suggestions for additional commands or want to let us know about bugs you encountered? If so, let us know by using the /feedback command or open an issue on GitHub.
+Send Feedback to *@Bot_Creator_Dev*.
